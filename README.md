@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://moonantonio.github.io/">
+<a href="https://moonantonio.github.io/">
+    <img src="https://github.com/MoonAntonio/MoonAntonio/blob/master/banner.png?raw=true" width="32px"/>
+  </a>
+  <!--- <a href="https://moonantonio.github.io/">
     <img src="https://github.com/MoonAntonio/MoonAntonio/blob/master/Icon01.png?raw=true" width="32px"/>
   </a>
   &emsp;
@@ -25,7 +28,7 @@
   <a href="https://twitter.com/AntonioMoonNull">
     <img src="https://github.com/MoonAntonio/MoonAntonio/blob/master/Icon03.png?raw=true" width="32px"/>
   </a>
-  <!--- <br><br>
+  <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
