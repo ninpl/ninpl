@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://moonantonio.github.io/">
-    <img src="https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="24px"/>
+    <img src="https://github.com/MoonAntonio/MoonAntonio/blob/master/Icon01.png?raw=true" width="28px"/>
   </a>
   &emsp;
   <a href="https://moonantonio.github.io/portfolio/">
