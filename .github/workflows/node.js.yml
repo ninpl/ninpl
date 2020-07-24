@@ -5,11 +5,10 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     
     steps:
