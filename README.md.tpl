@@ -30,8 +30,9 @@
   &emsp;
   <a href="https://twitter.com/AntonioMoonNull">
     <img src="https://img.icons8.com/fluent/64/000000/twitter.png" width="48px"/>
+  </a>
 </p>
 
-<p align="center">
-   <a>Ultimo: %{{ultimo}}%</a>
-</p>
+  ---
+
+> **Ultimo**: %{{ultimo}}%
