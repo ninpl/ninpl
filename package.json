@@ -1,0 +1,24 @@
+{
+    "name": "moonantonio",
+    "version": "1.0.0",
+    "description": "moonantonio README Github",
+    "main": "index.js",
+    "scripts": {
+        "update-readme": "node index.js",
+        "test": "echo \"Error: no tets specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MoonAntonio/MoonAntonio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MoonAntonio/MoonAntonio/issues"
+    },
+    "homepage": "https://github.com/MoonAntonio/MoonAntonio#readme",
+    "dependencies": {
+        "rss-parse": "3.8.0"
+    }
+}
