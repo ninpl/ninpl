@@ -27,5 +27,5 @@ jobs:
         git config user.name moonantonio
         git config user.email pinchodev91@gmail.com
         git add README.md
-        diff --quiet && git diff --staged --quiet || git commit -m  "[bot] Autogeneracion del README"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Autogeneracion del README"
         git push origin master
