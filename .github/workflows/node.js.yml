@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
@@ -19,9 +19,8 @@ jobs:
     - run: npm install
     - run: npm run update-readme
     - run: |
-        git config user.name moonantonio
-        git config user.email antoniomt.moon@gmail.com
+        git config user.name Moon Antonio
+        git config user.email pinchodev91@gmail.com
         git add README.md
         git commit -m "[bot] Autogeneracion del README"
         git push origin master
-
