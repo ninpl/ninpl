@@ -30,10 +30,9 @@
   &emsp;
   <a href="https://twitter.com/AntonioMoonNull">
     <img src="https://img.icons8.com/fluent/64/000000/twitter.png" width="48px"/>
-    </a>
+  </a>
 </p>
-  
- 
+
   ---
 
 > **Ultimo**: [VSCodeThemes, directorio de temas para Visual Studio Code](https://moonantonio.github.io/post/2019/comun/008/)
