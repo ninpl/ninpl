@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/MoonAntonio" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoonAntonio&&show_icons=true&theme=tokyonight" alt="MoonAntonio Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=moonantonio&&show_icons=true&count_private=true&theme=tokyonight" alt="MoonAntonio Stats" >
   </a>
 </p>
 
