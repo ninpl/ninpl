@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/MoonAntonio/MoonAntonio#readme",
     "dependencies": {
-        "rss-parse": "3.8.0"
+        "rss-parser": "3.8.0"
     }
 }
