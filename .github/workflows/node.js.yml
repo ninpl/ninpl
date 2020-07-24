@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   build:
@@ -13,10 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
     - run: npm install
     - run: npm run update-readme
+    - uses: actions/checkout@v2
+    - run: |
+        git config user.name MoonAntonio
+        git config user.email antoniomt.moon@gmail.com
+        git add README.md
+        git commit -m "[bot] Autogeneracion del README"
+        git push origin master
+
