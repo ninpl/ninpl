@@ -27,10 +27,6 @@
   <a href="https://moonantonio.github.io/portfolio/">
     <img src="https://img.icons8.com/plasticine/50/000000/loyalty.png" width="48px"/>
   </a>
-  &emsp;
-  <a href="https://twitter.com/AntonioMoonNull">
-    <img src="https://img.icons8.com/fluent/64/000000/twitter.png" width="48px"/>
-  </a>
 </p>
 
   ---
