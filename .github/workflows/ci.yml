@@ -9,8 +9,11 @@ jobs:
     name: Actualizar el README de este repositorio con las últimas publicaciones del blog
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
       - uses: actions/checkout@v2
+      - name: Traer las publicaciones del blog
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "3"
+          max_post_count: "5"
+          template: "[$title]($url)"
           feed_list: "https://moonantonio.github.io/index.xml"
