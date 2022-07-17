@@ -35,5 +35,8 @@
      alt="Info" width="70" height="20"/></a>
 
 📕 &nbsp;**Blog**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [[BOT] - Integracion de bot](https://moonantonio.github.io/post/2022/comun/001/)
+- [VSCodeThemes, directorio de temas para Visual Studio Code](https://moonantonio.github.io/post/2019/comun/008/)
+- [Guía de inicio en la Programación](https://moonantonio.github.io/post/2019/comun/007/)
+- [Cómo usar Trello para el desarrollo ágil](https://moonantonio.github.io/post/2019/comun/006/)
+- [Álgebra - Matrices](https://moonantonio.github.io/post/2019/matematicas/003/)
