@@ -34,6 +34,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonantonio&count_bg=%233DE7A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"
      alt="Info" width="70" height="20"/></a>
 
-📕 &nbsp;**Blog Posts**
+📕 &nbsp;**Blog**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
