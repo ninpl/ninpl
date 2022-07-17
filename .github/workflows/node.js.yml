@@ -22,8 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Generar el README
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+      uses: actions/checkout@v2
+    - name: Configurar node.js
+      uses: actions/setup-node@v1
       with:
         node-version: '16'
     - run: npm install
