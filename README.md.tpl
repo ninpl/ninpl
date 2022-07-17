@@ -35,4 +35,4 @@
      alt="Info" width="70" height="20"/></a>
 
 📕 &nbsp;**Blog**
-%{{latest_articles}}%
+%{{ultimos}}%
