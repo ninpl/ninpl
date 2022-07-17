@@ -1,28 +1,16 @@
-name: Actualizacion README.md de Perfil ( Node.js CI )
-
+name: CI README.md de Perfil
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
-  
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme-with-blog:
+    name: Actualizar el README de este repositorio con las últimas publicaciones del blog
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '14'
-    - run: npm install
-    - run: npm run update-readme
-    - run: |
-        git config user.name moonantonio
-        git config user.email pinchodev91@gmail.com
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Autogeneracion del README"
-        git push origin master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "3"
+          feed_list: "https://moonantonio.github.io/index.xml"
