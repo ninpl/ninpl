@@ -1,26 +1,28 @@
+// Importacion de lo necesario
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 import Parser from 'rss-parser'
 
 const parser = new Parser()
-const getLatestArticlesFromBlog = () =>
+const obtenerUltimosArticulos = () =>
   parser.parseURL('https://moonantonio.github.io/index.xml').then((data) => data.items)
 
+// Crear la funcion
 ;(async () => {
-  const [template, articles] = await Promise.all([
+  const [plantilla, articulos] = await Promise.all([
     fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
-    getLatestArticlesFromBlog()
+    obtenerUltimosArticulos()
   ])
 
-// create latest articles markdown
-const latestArticlesMarkdown = articles
+// Crear markdown con los ultimos articulos
+const ultimosArticulosMD = articulos
    .slice(0, 5)
    .map(({ title, link }) => `- [${title}](${link})`)
    .join('\n')
 
-// replace all placeholders with info
-const newMarkdown = template
-  .replace('%{{latest_articles}}%', latestArticlesMarkdown)
+// Reemplazar con la informacion obtenida
+const nuevoMD = plantilla
+  .replace('%{{ultimos}}%', ultimosArticulosMD)
 
-await fs.writeFile('README.md', newMarkdown)
+await fs.writeFile('README.md', nuevoMD)
 })()
