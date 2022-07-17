@@ -10,7 +10,7 @@ on:
     - cron: "0 */4 * * *"
 
 jobs:
-  cancelacion:
+  Cancelacion:
     runs-on: ubuntu-latest
     steps:
     - name: Cancelar generaciones redundantes
@@ -18,8 +18,8 @@ jobs:
       with:
         access_token: ${{ github.token }}
   
-  generar:
-    needs: [cancelacion]
+  Generar:
+    needs: [Cancelacion]
     runs-on: ubuntu-latest
     steps:
     - name: Generar el README
