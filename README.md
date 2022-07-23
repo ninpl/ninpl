@@ -37,6 +37,6 @@
 📕 &nbsp;**Blog**
 - [Actualización del blog - Temporal](https://moonantonio.github.io/post/2022/comun/001/)
 - [VSCodeThemes, directorio de temas para Visual Studio Code](https://moonantonio.github.io/post/2019/comun/008/)
-- [Guía de inicio en la Programación](https://moonantonio.github.io/post/2019/comun/007/)
 - [Cómo usar Trello para el desarrollo ágil](https://moonantonio.github.io/post/2019/comun/006/)
-- [Álgebra - Matrices](https://moonantonio.github.io/post/2019/matematicas/003/)
+- [Uso de GUISkin para el estilo del editor](https://moonantonio.github.io/post/2019/dev/004/)
+- [Fases Importantes del desarrollo de un juego](https://moonantonio.github.io/post/2019/dev/003/)
