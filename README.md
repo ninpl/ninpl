@@ -35,8 +35,8 @@
      alt="Info" width="70" height="20"/></a>
 
 📕 &nbsp;**Blog**
+- [Imagen del dia [10.08.2022]](https://moonantonio.github.io/posts/2022/imagen/001/)
 - [Actualización del blog - Temporal](https://moonantonio.github.io/posts/2022/comun/001/)
 - [VSCodeThemes, directorio de temas para Visual Studio Code](https://moonantonio.github.io/posts/2019/comun/008/)
 - [Cómo usar Trello para el desarrollo ágil](https://moonantonio.github.io/posts/2019/comun/006/)
 - [Uso de GUISkin para el estilo del editor](https://moonantonio.github.io/posts/2019/dev/004/)
-- [Fases Importantes del desarrollo de un juego](https://moonantonio.github.io/posts/2019/dev/003/)
