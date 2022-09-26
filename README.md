@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/ninpl" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.ninpl.vercel.app/api?usernameninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
+    <img src="https://github-readme-stats.ninpl.vercel.app/api?username=ninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
   </a>
 </p>
 
@@ -31,12 +31,11 @@
 
   ---
      
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonantonio&count_bg=%233DE7A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"
-     alt="Info" width="70" height="20"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fninpl&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=N9%2B&edge_flat=false"/></a>
 
 📕 &nbsp;**Blog**
-- [Imagen del dia [10.08.2022]](https://moonantonio.github.io/posts/2022/imagen/001/)
-- [Actualización del blog - Temporal](https://moonantonio.github.io/posts/2022/comun/001/)
-- [VSCodeThemes, directorio de temas para Visual Studio Code](https://moonantonio.github.io/posts/2019/comun/008/)
-- [Cómo usar Trello para el desarrollo ágil](https://moonantonio.github.io/posts/2019/comun/006/)
-- [Uso de GUISkin para el estilo del editor](https://moonantonio.github.io/posts/2019/dev/004/)
+- [Imagen del dia [10.08.2022]](https://ninpl.com/posts/2022/imagen/001/)
+- [Actualización del blog - Temporal](https://ninpl.com/posts/2022/comun/001/)
+- [VSCodeThemes, directorio de temas para Visual Studio Code](https://ninpl.com/posts/2019/comun/008/)
+- [Cómo usar Trello para el desarrollo ágil](https://ninpl.com/posts/2019/comun/006/)
+- [Uso de GUISkin para el estilo del editor](https://ninpl.com/posts/2019/dev/004/)
