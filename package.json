@@ -1,7 +1,7 @@
 {
   "name": "moonantonio",
   "version": "1.0.0",
-  "description": "moonantonio README GitHub profile",
+  "description": "ninpl README GitHub profile",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moonantonio/moonantonio.git"
+    "url": "git+https://github.com/ninpl/ninpl.git"
   },
   "keywords": [
     "readme",
     "github profile",
     "github readme"
   ],
-  "author": "Antonio Mateo Tomas <antoniomt.moon@gmail.com> (https://moonantonio.github.io/)",
+  "author": "Antonio Mateo Tomas <antoniomt.moon@gmail.com> (https://ninpl.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moonantonio/moonantonio/issues"
+    "url": "https://github.com/ninpl/ninpl/issues"
   },
-  "homepage": "https://github.com/moonantonio/moonantonio#readme",
+  "homepage": "https://github.com/ninpl/ninpl#readme",
   "dependencies": {
     "node-fetch": "2.6.7",
     "rss-parser": "3.12.0"
