@@ -5,7 +5,7 @@ import Parser from 'rss-parser'
 
 const parser = new Parser()
 const obtenerUltimosArticulos = () =>
-  parser.parseURL('https://moonantonio.github.io/index.xml').then((data) => data.items)
+  parser.parseURL('https://ninpl.com/index.xml').then((data) => data.items)
 
 // Crear la funcion
 ;(async () => {
