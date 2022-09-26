@@ -14,17 +14,17 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/MoonAntonio" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.moonantonio.vercel.app/api?username=moonantonio&&show_icons=true&count_private=true&theme=tokyonight" alt="MoonAntonio Stats" >
+  <a href="https://github.com/ninpl" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.ninpl.vercel.app/api?usernameninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
   </a>
 </p>
 
 <p align="center">
-  <a href="https://moonantonio.github.io/">
+  <a href="https://ninpl.com">
     <img src="https://img.icons8.com/dusk/64/000000/internet.png" width="48px"/>
   </a>
   &emsp;
-  <a href="https://moonantonio.github.io/portfolio/">
+  <a href="https://ninpl.com/portfolio/">
     <img src="https://img.icons8.com/plasticine/50/000000/loyalty.png" width="48px"/>
   </a>
 </p>
