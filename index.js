@@ -26,7 +26,7 @@ const ultimosArticulosMD = articulos
 const nuevoMD = plantilla
   .replace('%{{ultimos}}%', ultimosArticulosMD)
 
-const nuevoMD = plantilla
+nuevoMD = plantilla
   .replace('%{{fecha}}%', hoy.toLocaleDateString())
 
 await fs.writeFile('README.md', nuevoMD)
