@@ -25,8 +25,7 @@ const ultimosArticulosMD = articulos
 // Reemplazar con la informacion obtenida
 const nuevoMD = plantilla
   .replace('%{{ultimos}}%', ultimosArticulosMD)
-
-nuevoMD.replace('%{{fecha}}%', hoy)
+  .replace('%{{fecha}}%', hoy)
 
 await fs.writeFile('README.md', nuevoMD)
 })()
