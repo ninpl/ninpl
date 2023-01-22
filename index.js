@@ -26,7 +26,7 @@ const ultimosArticulosMD = articulos
 const nuevoMD = plantilla
   .replace('%{{ultimos}}%', ultimosArticulosMD)
 
-hoy.toLocaleDateString()
+hoy.toLocaleDateString();
 
 nuevoMD = plantilla
   .replace('%{{fecha}}%', hoy)
