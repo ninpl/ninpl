@@ -27,7 +27,7 @@ jobs:
     - name: Configurar node.js
       uses: actions/setup-node@v1
       with:
-        node-version: '16'
+        node-version: '18'
     - run: npm install
     - run: npm run update-readme
     - run: |
