@@ -3,6 +3,8 @@ import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 import Parser from 'rss-parser'
 
+const fecha = new Date()
+const hoy = fecha.getDate()
 const parser = new Parser()
 const obtenerUltimosArticulos = () =>
   parser.parseURL('https://ninpl.com/index.xml').then((data) => data.items)
@@ -23,6 +25,9 @@ const ultimosArticulosMD = articulos
 // Reemplazar con la informacion obtenida
 const nuevoMD = plantilla
   .replace('%{{ultimos}}%', ultimosArticulosMD)
+
+const nuevoMD = plantilla
+  .replace('%{{fecha}}%', hoy.toLocaleDateString())
 
 await fs.writeFile('README.md', nuevoMD)
 })()
