@@ -35,7 +35,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog %{{fecha}}% 
+📕 &nbsp;Blog 1/22/2023 
 - [Imagen del dia [10.08.2022]](https://ninpl.com/posts/2022/imagen/001/)
 - [Actualización del blog - Temporal](https://ninpl.com/posts/2022/comun/001/)
 - [VSCodeThemes, directorio de temas para Visual Studio Code](https://ninpl.com/posts/2019/comun/008/)
