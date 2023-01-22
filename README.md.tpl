@@ -35,5 +35,5 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;**Blog**
+📕 &nbsp;**Blog %{{fecha}}% **
 %{{ultimos}}%
