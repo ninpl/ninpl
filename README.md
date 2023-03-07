@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img alt="contribution snake" width="85%" src="hhttps://user-images.githubusercontent.com/7427480/223284208-9cb13120-7a48-4034-84e2-74bac508ad0b.svg" />
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/ninpl/ninpl/a9e0387320e0b1249176a695f828bcabd82d5e16/github-user-contribution.svg" />
 </p>
 
   ---
