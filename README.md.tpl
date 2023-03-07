@@ -29,6 +29,10 @@
   </a>
 </p>
 
+<p align="center">
+    <img alt="contribution snake" width="85%" src="hhttps://user-images.githubusercontent.com/7427480/223284208-9cb13120-7a48-4034-84e2-74bac508ad0b.svg" />
+</p>
+
   ---
      
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fninpl&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=N9%2B&edge_flat=false" align="right"
