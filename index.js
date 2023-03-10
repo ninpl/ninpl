@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import Parser from 'rss-parser'
 
 var today = new Date();
-var hoy = today.toLocaleDateString('en-US');
+var hoy = today.toLocaleDateString('es-ES');
 const parser = new Parser()
 const obtenerUltimosArticulos = () =>
   parser.parseURL('https://ninpl.com/index.xml').then((data) => data.items)
