@@ -40,8 +40,8 @@
 
 
 📕 &nbsp;Blog 30/3/2023 
+- [¡ Nuevo Perfil !](https://ninpl.com/posts/2023/comun/001/)
 - [Imagen del dia [22.01.2023]](https://ninpl.com/posts/2023/imagen/001/)
 - [Imagen del dia [10.08.2022]](https://ninpl.com/posts/2022/imagen/001/)
 - [Actualización del blog - Temporal](https://ninpl.com/posts/2022/comun/001/)
 - [VSCodeThemes, directorio de temas para Visual Studio Code](https://ninpl.com/posts/2019/comun/008/)
-- [Cómo usar Trello para el desarrollo ágil](https://ninpl.com/posts/2019/comun/006/)
