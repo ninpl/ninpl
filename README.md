@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/dusk/64/000000/internet.png" width="48px"/>
   </a>
   &emsp;
-  <a href="https://ninpl.com/portfolio/">
+  <a href="https://ninpl.com/perfil/">
     <img src="https://img.icons8.com/plasticine/50/000000/loyalty.png" width="48px"/>
   </a>
 </p>
