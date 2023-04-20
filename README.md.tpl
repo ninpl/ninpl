@@ -29,10 +29,17 @@
   </a>
 </p>
 
+<!--
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/ninpl/ninpl/a9e0387320e0b1249176a695f828bcabd82d5e16/github-user-contribution.svg" />
 </p>
+-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
+</picture>
   ---
      
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fninpl&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=N9%2B&edge_flat=false" align="right"
