@@ -24,6 +24,12 @@ jobs:
     steps:
     - name: Generar el README
       uses: actions/checkout@v3
+    - name: Generar github-contribution-grid-snake.svg
+      uses: Platane/snk/svg-only@v2
+      with:
+        github_user_name: ${{ ninpl }}
+        outputs: |
+          /github-contribution-grid-snake.svg
     - name: Configurar node.js
       uses: actions/setup-node@v3
       with:
