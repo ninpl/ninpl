@@ -47,7 +47,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 20/4/2024 
+📕 &nbsp;Blog 21/4/2024 
 - [¡ Nuevo Perfil !](https://ninpl.com/posts/2023/comun/001/)
 - [Imagen del dia [22.01.2023]](https://ninpl.com/posts/2023/imagen/001/)
 - [Imagen del dia [10.08.2022]](https://ninpl.com/posts/2022/imagen/001/)
