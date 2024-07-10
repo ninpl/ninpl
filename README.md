@@ -48,8 +48,8 @@
 
 
 📕 &nbsp;Blog 10/7/2024 
+- [Integración de diferentes técnicas de búsqueda de caminos](https://ninpl.com/posts/2024/dev/002/)
 - [Imagen del dia [07.07.2024]](https://ninpl.com/posts/2024/imagen/001/)
 - [Corrutinas y Async en Unity](https://ninpl.com/posts/2024/dev/001/)
 - [¡ Nuevo Perfil !](https://ninpl.com/posts/2023/comun/001/)
 - [Imagen del dia [22.01.2023]](https://ninpl.com/posts/2023/imagen/001/)
-- [Imagen del dia [10.08.2022]](https://ninpl.com/posts/2022/imagen/001/)
