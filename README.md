@@ -47,7 +47,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 21/9/2024 
+📕 &nbsp;Blog 22/9/2024 
 - [Integración de diferentes técnicas de búsqueda de caminos](https://ninpl.com/posts/2024/dev/002/)
 - [Imagen del dia [07.07.2024]](https://ninpl.com/posts/2024/imagen/001/)
 - [Corrutinas y Async en Unity](https://ninpl.com/posts/2024/dev/001/)
