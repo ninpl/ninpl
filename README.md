@@ -20,13 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ninpl.com">
-    <img src="https://img.icons8.com/dusk/64/000000/internet.png" width="48px"/>
-  </a>
-  &emsp;
-  <a href="https://ninpl.com/perfil/">
-    <img src="https://img.icons8.com/plasticine/50/000000/loyalty.png" width="48px"/>
-  </a>
+  <a href=""><img src="https://raw.githubusercontent.com/ninpl/ninpl/refs/heads/master/intro.svg" alt="Typing SVG" /></a>
 </p>
 
 <!--
