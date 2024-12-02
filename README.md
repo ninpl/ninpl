@@ -41,7 +41,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 1/12/2024 
+📕 &nbsp;Blog 2/12/2024 
 - [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
 - [UniTips [#1]](https://ninpl.com/posts/2024/tips/001/)
 - [Imagen del dia [05.11.2024]](https://ninpl.com/posts/2024/imagen/002/)
