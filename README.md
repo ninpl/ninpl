@@ -41,9 +41,9 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 2/12/2024 
+📕 &nbsp;Blog 3/12/2024 
+- [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
 - [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
 - [UniTips [#1]](https://ninpl.com/posts/2024/tips/001/)
 - [Imagen del dia [05.11.2024]](https://ninpl.com/posts/2024/imagen/002/)
 - [Los 12 principios de la Animación](https://ninpl.com/posts/2024/dise%C3%B1o/001/)
-- [Integración de diferentes técnicas de búsqueda de caminos](https://ninpl.com/posts/2024/dev/002/)
