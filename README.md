@@ -41,7 +41,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 16/1/2025 
+📕 &nbsp;Blog 17/1/2025 
 - [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
 - [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
 - [UniTips [#1]](https://ninpl.com/posts/2024/tips/001/)
