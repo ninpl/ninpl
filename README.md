@@ -42,8 +42,8 @@
 
 
 📕 &nbsp;Blog 5/3/2025 
+- [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
 - [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
 - [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
 - [UniTips [#1]](https://ninpl.com/posts/2024/tips/001/)
 - [Imagen del dia [05.11.2024]](https://ninpl.com/posts/2024/imagen/002/)
-- [Los 12 principios de la Animación](https://ninpl.com/posts/2024/dise%C3%B1o/001/)
