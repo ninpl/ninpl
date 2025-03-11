@@ -41,7 +41,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 10/3/2025 
+📕 &nbsp;Blog 11/3/2025 
 - [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
 - [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
 - [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
