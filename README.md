@@ -41,7 +41,7 @@
      alt="Info" width="100" height="20"/></a>
 
 
-📕 &nbsp;Blog 14/3/2025 
+📕 &nbsp;Blog 15/3/2025 
 - [Renderizar detrás de los iconos del escritorio en Windows](https://ninpl.com/posts/2025/dev/001/)
 - [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
 - [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
