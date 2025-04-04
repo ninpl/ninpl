@@ -42,7 +42,7 @@
      alt="Info" width="100" height="20"/></a>
 -->
 
-📕 &nbsp;Blog 3/4/2025 
+📕 &nbsp;Blog 4/4/2025 
 - [Imagen del dia [16.03.2024]](https://ninpl.com/posts/2025/imagen/001/)
 - [Renderizar detrás de los iconos del escritorio en Windows](https://ninpl.com/posts/2025/dev/001/)
 - [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
