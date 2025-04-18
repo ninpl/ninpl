@@ -43,8 +43,8 @@
 -->
 
 📕 &nbsp;Blog 18/4/2025 
+- [La historia definitiva de The Legend of Dragoon](https://ninpl.com/posts/2025/juegos/001/)
 - [Imagen del dia [16.03.2024]](https://ninpl.com/posts/2025/imagen/001/)
 - [Renderizar detrás de los iconos del escritorio en Windows](https://ninpl.com/posts/2025/dev/001/)
 - [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
 - [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
-- [Las leyes de UX](https://ninpl.com/posts/2024/dise%C3%B1o/002/)
