@@ -1,21 +1,22 @@
 <!--- 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=ninpl&include_all_commits&show_icons=true&theme=tokyonight)](https://ninpl.com/)
 <p align="center">
-  <a href="https://github.com/MoonAntonio" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoonAntonio&title_color=333&text_color=777" alt="MoonAntonio Stats" >
+  <a href="https://github.com/ninpl" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=ninpl&title_color=333&text_color=777" alt="ninpl Stats" >
   </a>
 </p>
+
 <br><br>
   <strong>x.x</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/MoonAntonio/MoonAntonio?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/ninpl/ninpl?style=flat-square&color=black&logo=github">
   </a>
 -->
 
 <p align="center">
   <a href="https://github.com/ninpl" class="rich-diff-level-one">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
   </a>
 </p>
 
