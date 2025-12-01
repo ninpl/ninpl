@@ -43,7 +43,7 @@
      alt="Info" width="100" height="20"/></a>
 -->
 
-📕 &nbsp;Blog 30/11/2025 
+📕 &nbsp;Blog 1/12/2025 
 - [La historia definitiva de The Legend of Dragoon](https://ninpl.com/posts/2025/juegos/001/)
 - [Imagen del dia [16.03.2024]](https://ninpl.com/posts/2025/imagen/001/)
 - [Renderizar detrás de los iconos del escritorio en Windows](https://ninpl.com/posts/2025/dev/001/)
