@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ninpl" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ninpl&&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats" >
+    <img src="https://github-stats-extended.vercel.app/api?username=ninpl&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats">
   </a>
 </p>
 
@@ -42,10 +42,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fninpl&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=N9%2B&edge_flat=false" align="right"
      alt="Info" width="100" height="20"/></a>
 -->
+<!--- 
+📕 &nbsp;Blog 12/8/2026 
 
-📕 &nbsp;Blog 1/12/2025 
-- [La historia definitiva de The Legend of Dragoon](https://ninpl.com/posts/2025/juegos/001/)
-- [Imagen del dia [16.03.2024]](https://ninpl.com/posts/2025/imagen/001/)
-- [Renderizar detrás de los iconos del escritorio en Windows](https://ninpl.com/posts/2025/dev/001/)
-- [Continúa la censura en Solo Leveling](https://ninpl.com/posts/2025/comun/001/)
-- [Orden de ejecución en Unity 6.0](https://ninpl.com/posts/2024/dev/003/)
+-->
