@@ -15,8 +15,8 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/ninpl" class="rich-diff-level-one">
-    <img src="https://github-stats-extended.vercel.app/api?username=ninpl&show_icons=true&count_private=true&theme=tokyonight" alt="N9+ Stats">
+  <a href="https://github-stats-extended.vercel.app/api?username=ninpl&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api?username=ninpl&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="N9+ Stats">
   </a>
 </p>
 
